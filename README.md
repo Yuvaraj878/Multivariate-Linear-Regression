@@ -37,7 +37,7 @@ print('Predicted CO2 for the corresponding weight and volume',predictedCO2)
 ```
 ## Output:
 ### Insert your output:
-file:///home/sec/Pictures/Screenshots/jy%20output.png![image](https://user-images.githubusercontent.com/118622554/214581109-3453aebd-6e30-468e-92ed-7a5ca54c4504.png)
+![output](./jy%20output.png)
 
 
 
